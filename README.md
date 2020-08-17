@@ -41,6 +41,18 @@ Al estudiar los circuitos de corriente continua llegamos a la indudable conclusi
 
 Ambas gráficas corresponden a ondas senoidales, generalmente se usa la _función Coseno_ al momento de trabajar con circuitos ac, pero, esto no quiere decir que la _función Seno_ no se presente en algún análisis, ya que ambas describen ondas senoidales, se las considera complementarias, es decir, similares por lo que comparten las mismas características.
 
+#### Características de la onda senoidal
+
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/partes.png)
+
+Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, su representación en el plano cartesiano viene dado por la amplitud y el tiempo. Una onda senoidal es periódica y cuenta con los siguientes elementos:
+
+- **Periodo:** Intervalo de tiempo donde la onda realiza un ciclo.   
+- **Frecuencia:** Número de ciclos que tienen lugar en la unidad de tiempo y se determina como el inverso del periodo (1/T).
+- **Amplitud:** Es el valor de los extremos, valles y crestas, que la onda alcanza.
+
+
+
 ### 4. DIAGRAMAS
 **Diagrama del circuito**
 
