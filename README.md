@@ -51,7 +51,9 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 - **Frecuencia:** Número de ciclos que tienen lugar en la unidad de tiempo y se determina como el inverso del periodo (1/T).
 - **Amplitud:** Es el valor de los extremos, valles y crestas, que la onda alcanza.
 
+#### Representación matemática de una onda senoidal
 
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/representacion%20Math.PNG)
 
 ### 4. DIAGRAMAS
 **Diagrama del circuito**
