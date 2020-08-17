@@ -20,7 +20,16 @@ Una de las principales diferencias entre la corriente alterna y la corriente con
 
 Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
 
-Las ondas senoidales nos permiten describir diversos fenómenos físicos con una notable precisión, al estudiar la eléctricidad la onda senoidal se usa para describir la forma que adopta la corriente alterna si la conectamos a un osciloscopio.
+El libro _Fundamentos de circuitos eléctricos_ (Sadiku, 2006) nos dice:
+> Una senoide es una señal que tiene la forma de la función seno o coseno.
+
+Las ondas senoidales nos permiten describir diversos fenómenos físicos con una notable precisión, al estudiar la eléctricidad la onda senoidal se usa para describir la forma que adopta la corriente alterna si la conectamos a un osciloscopio. Una corriente senoidal se conoce usualmente como corriente alterna (ca). Esta corriente se invierte a intervalos regulares y tiene valores alternadamente positivo y negativo. Los circuitos excitados por fuentes de corriente o tensión senoidal se llaman circuitos de ca.
+
+La corriente alterna tuvo su aparición al finales de siglo XIX, siendo Nikola Tesla (1856-1943) uno de los principales defensores de esta una forma de corriente.
+
+> La contribución más significativa a los primeros éxitos de la ca fue la patente lograda por Tesla en 1888 del motor polifásico de ca. El motor de inducción y los sistemas polifásicos de generación y distribución sentenciaron a muerte el uso de la cd como fuente primaria de energía.
+
+
 
 
 ### 4. DIAGRAMAS
