@@ -12,9 +12,15 @@ Una de las principales diferencias entre la corriente alterna y la corriente con
 ### 2. OBJETIVOS
 #### Objetivo General
 
+- Determinar experimentalmente las características de señales senoidales.
+
 #### Objetivos Específicos
 
 ### 3. MARCO TEÓRICO
+
+Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
+
+Las ondas senoidales nos permiten describir diversos fenómenos físicos con una notable precisión, al estudiar la eléctricidad la onda senoidal se usa para describir la forma que adopta la corriente alterna si la conectamos a un osciloscopio.
 
 
 ### 4. DIAGRAMAS
