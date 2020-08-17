@@ -31,6 +31,15 @@ La corriente alterna tuvo su aparición al finales de siglo XIX, siendo Nikola T
 
 Al estudiar los circuitos de corriente continua llegamos a la indudable conclusión de que los elementos del circuito son existados por la fuente del circuito, sea de corriente o de voltaje, en la corriente alterna ocurre lo mismo, sin embargo, ya que su fuente es una onda senoidal, es necesario conocer las carácterísticas de la misma.
 
+**Función Coseno**
+
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/funci%C3%B3n%20cos.jpg)
+
+**Función Seno**
+
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/funci%C3%B3n%20seno.jpg)
+
+Ambas gráficas corresponden a ondas senoidales, generalmente se usa la _función Coseno_ al momento de trabajar con circuitos ac, pero, esto no quiere decir que la _función Seno_ no se presente en algún análisis, ya que ambas describen ondas senoidales, se las considera complementarias, es decir, similares por lo que comparten las mismas características.
 
 ### 4. DIAGRAMAS
 **Diagrama del circuito**
