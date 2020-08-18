@@ -15,9 +15,9 @@ Una de las principales diferencias entre la corriente alterna y la corriente con
 - Determinar experimentalmente las características de señales senoidales.
 
 #### Objetivos Específicos
--Entender el funcionamiento del oscilosscopio.
--Analizar la senoide que forma el voltaje en una resistencia.
--Comparar el voltaje maximo de la senoide con el obtenido con un voltímetro en C.A.
+- Entender el funcionamiento del oscilosscopio.
+- Analizar la senoide que forma el voltaje en una resistencia.
+- Comparar el voltaje maximo de la senoide con el obtenido con un voltímetro en C.A.
 ### 3. MARCO TEÓRICO
 
 Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
