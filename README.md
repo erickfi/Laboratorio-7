@@ -60,13 +60,15 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/diagrama.PNG)
 
-**Construcción del diagrama en Tinkercad**
+**Construcción del diagrama en Proteus**
 
-![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/diagrama%20tinker.PNG)
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/osciloscopio%20proteus.PNG)
 
 **Simulación**
 
-![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/simulaci%C3%B3n.PNG)
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/simulacion%201.jpeg)
+
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/simulacion%202.jpg)
 
 ### 5. LISTA DE COMPONENTES
 
