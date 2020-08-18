@@ -90,7 +90,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ***¿En qué valor está posicionada la perilla TIME/DIV?***
 
-	50 
+	50 us
 
 ***¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?***
 
