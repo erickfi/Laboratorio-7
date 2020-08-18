@@ -108,7 +108,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ***Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto ¿Coinciden? ¿Por qué?***
 
-El valor obtenido en el osciloscopio es 6.9 V y el medido por el multímetro es 4.86 V, no coinciden por el hecho que el osciloscopio nos entrega el valor pico del voltaje y el multímetro el valor rms, entonces si dividimos el voltaje pico de 6.9 V para la raíz de dos obtenemos un valor de 4.879 V, siendo este un valor próximo a 4.86 V, verificando así que el valor medido con el multímetro efectivamente es el valor eficaz o rms del voltaje que pasa por la resistencia de 2.2k ohmios.
+	El valor obtenido en el osciloscopio es 6.9 V y el medido por el multímetro es 4.86 V, no coinciden por el hecho que el osciloscopio nos entrega el valor pico del voltaje y el multímetro el valor rms, entonces si dividimos el voltaje pico de 6.9 V para la raíz de dos obtenemos un valor de 4.879 V, siendo este un valor próximo a 4.86 V, verificando así que el valor medido con el multímetro efectivamente es el valor eficaz o rms del voltaje que pasa por la resistencia de 2.2k ohmios.
 
 
 ### 7. CONCLUSIONES
