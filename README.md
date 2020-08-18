@@ -77,26 +77,31 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 ### 6. PREGUNTAS
 
 ***¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?***
-      6
+
+         6
 
 ***¿En qué valor está posicionada la perilla VOLTS/DIV?***
-       1.5 V
+
+        1.5 V
 
 ***¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?***
+
         8
 
 ***¿En qué valor está posicionada la perilla TIME/DIV?***
+
         50 us
 
 ***¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?***
+
         Amplitud de voltaje: 6.9 (V) 
         Periodo:  0.0004 (s) 
 
 **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.***
-	f:    2.5 k   (Hz) 
 
+	f:    2.5 k   (Hz) 
         ω:     5000 π  (rad/s) 
-Con el multímetro digital mida el voltaje de salida en RL: 4.86 V
+        Con el multímetro digital mida el voltaje de salida en RL: 4.86 V
 
 ***Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto ¿Coinciden? ¿Por qué?***
 
