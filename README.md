@@ -66,7 +66,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 **Simulación**
 
-![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/simulacion%20tinker.PNG)
+![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/simulaci%C3%B3n.PNG)
 
 ### 5. LISTA DE COMPONENTES
 
