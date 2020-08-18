@@ -15,7 +15,9 @@ Una de las principales diferencias entre la corriente alterna y la corriente con
 - Determinar experimentalmente las características de señales senoidales.
 
 #### Objetivos Específicos
-
+-Entender el funcionamiento del oscilosscopio.
+-Analizar la senoide que forma el voltaje en una resistencia.
+-Comparar el voltaje maximo de la senoide con el obtenido con un voltímetro en C.A.
 ### 3. MARCO TEÓRICO
 
 Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
@@ -121,7 +123,10 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ### 8. RECOMENDACIONES
 
-- Buscar el simulador adecuado, donde los componentes del software permitan simular corriente alterna
+- Buscar el simulador adecuado, donde los componentes del software permitan simular corriente alterna y que tenga un osciloscopio que permita obervar de manera correcta a la onda.
+-El osciloscopio debe tener una referencia a tierra para ser usado, ya que en corriente alterna no existe polaridad y por lo tanto no entregaría los valores que se estan buscando.
+-Se debe diferenciar entre el voltaje rms, voltaje eficaz, y voltaje pico a pico, para evitar un mal cálculo y obteniendose asi resultados falsos lo cual puede generar serios problemas.
+
 
 ### 9. CRONOGRAMA
 
