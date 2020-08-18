@@ -74,27 +74,24 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ![](https://github.com/erickfi/Laboratorio-7/blob/master/Imagenes/componentes.PNG)
 
-### 6. TABLA DE RESULTADOS
+### 6. PREGUNTAS
 
 
 
+### 7. CONCLUSIONES
+- El osciloscopio nos permite medir el voltaje máximo de un componente de un circuito de corriente alterna, mientras que el multimetro nos dará el valor del voltaje eficaz Vrms.
+- Se puede aproximar el voltaje máximo de un elemento con la gráfica del osciloscopio, dando a cada cuadro un valor de voltaje y ajustando el número de cuadros a la imagen que nos da el osciloscopio.
+- El valor máximo que alcanza un circuito no será el mismo que existará a los elementos, para ello se usa el voltaje eficaz y la variación de ambos es en un factor igual a la raíz cuadrada de 2.
 
-### 7. Explicación de Código Fuente
+### 8. RECOMENDACIONES
 
+- Buscar el simulador adecuado, donde los componentes del software permitan simular corriente alterna
 
-
-### 8. CONCLUSIONES
-
-
-### 9. RECOMENDACIONES
-
-
-
-### 10. CRONOGRAMA
+### 9. CRONOGRAMA
 
 
 
-### 11. REFERENCIAS
+### 10. REFERENCIAS
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
-### 12. ANEXOS
+### 11. ANEXOS
 
