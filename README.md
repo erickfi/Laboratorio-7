@@ -100,6 +100,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 **Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.***
 
 	 f:    2.5 k   (Hz) 
+	 
         ω:     5000 π  (rad/s) 
         Con el multímetro digital mida el voltaje de salida en RL: 4.86 V
 
