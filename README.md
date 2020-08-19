@@ -121,6 +121,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 - Se puede aproximar el voltaje máximo de un elemento con la gráfica del osciloscopio, dando a cada cuadro un valor de voltaje y ajustando el número de cuadros a la imagen que nos da el osciloscopio.
 - El valor máximo que alcanza un circuito no será el mismo que existará a los elementos, para ello se usa el voltaje eficaz y la variación de ambos es en un factor igual a la raíz cuadrada de 2.
 - Como se puede observar en los resultados la frecuencia queda inalterada, es decir sigue siendo 2.5khz, pero el voltaje sufre una reducción a 6.9v de 10 del valor de voltaje máximo, por lo que la frecuencia debe ser constante en todo el circuito.
+- Hay un error del 0.4% por lo que el valor de lectura del multimetro es muy parecido a la precisión que nos da el oscilador.
 
 ### 8. RECOMENDACIONES
 
@@ -137,6 +138,6 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 11. ANEXOS
 
-- [Cálculos](https://github.com/erickfi/Laboratorio-7/blob/master/Anexos/anexos.pdf)
+- [Cálculos](https://github.com/erickfi/Laboratorio-7/blob/master/Anexos/LAB_7_CIRCUITOS.pdf)
 - [Cómo se implementó el circuito](https://youtu.be/wFO5DdxBPt8)
 - [Cómo funciona el circuito](https://youtu.be/656tT3m5qm4)
