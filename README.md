@@ -137,5 +137,6 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 11. ANEXOS
 
+- [Cálculos](https://github.com/erickfi/Laboratorio-7/blob/master/Anexos/anexos.pdf)
 - [Cómo se implementó el circuito](https://youtu.be/wFO5DdxBPt8)
 - [Cómo funciona el circuito](https://youtu.be/656tT3m5qm4)
